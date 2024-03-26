@@ -28,7 +28,12 @@ include("./_partials/header.php")
 				
 				<!-- Title -->
 				<h3 class="display-8 mb-4">La solution en matière de simulation d'environnement</h3>
-				<p class="mb-4 mb-xl-5">Depuis près de 30 ans d'expertises et de solutions pour vos études et laboratoires d'essais, nous vous accompagnons sur vos projets.</p>
+				<p class="mb-1 mb-xl-2">Depuis près de 30 ans d'expertises et de solutions pour vos études et laboratoires d'essais, nous vous accompagnons sur vos projets.</p>
+
+				<p class="mb-1 mb-xl-2">ERATIS conçoit, fabrique et commercialise, pour l’ensemble de l’industrie pharmaceutique, cosmétique et industrielle européenne, toute solution de simulation d’une très large palette de paramètres physiques et mécaniques : température, hygrométrie, lumière… dans plus de 15 pays. Notre développement régulier s'appuie sur des valeurs fortes, rigueur, réactivité et compétence technique devenant notre marque de fabrique. <br>
+				Nos techniciens régulièrement formés, disposent de toutes les certifications liées à leurs activités.</p>
+				<p class="mb-4 mb-xl-5">Entreprise restée à taille humaine, ERATIS privilégie l'écoute et la prise en compte des objectifs spécifiques de ses clients pour apporter tout en souplesse des solutions globales sur mesure.
+				</p>
 
 				<!-- Buttons -->
 				<div class="d-flex gap-1 gap-sm-3 flex-wrap mb-4 mb-xl-7">
